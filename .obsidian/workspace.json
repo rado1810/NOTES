@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "40c8ddd31b1bbe65",
+    "type": "split",
+    "children": [
+      {
+        "id": "e41b4c522d03e6f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5b2391175eec52",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fff084470897762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retrrettrerere.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0f029eade02a725",
+    "type": "split",
+    "children": [
+      {
+        "id": "d753fa69e24d0bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e38aeb032a5bed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24cdc84c3a863aef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ae43f736e85fd09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "843874838352ae70",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba0a0b97f3bce995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c7d01a9325699ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "retrrettrerere.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7452818d2efb7726",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "retrrettrerere.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c0ddc27af927e36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5df4fa1db83f567a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "retrrettrerere.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1fff084470897762",
+  "lastOpenFiles": [
+    "retrrettrerere.md"
+  ]
+}
